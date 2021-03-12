@@ -16,7 +16,7 @@
   <summary>Mais sobre mim</summary>
   <ul>
     <li>🎓 Engenharia de Sofware | PUC </li>
-    <li>📚 Estudando Dev. Java EE | Algoritmos | Matemática | Inglês | Engenharia</li>
+    <li>📚 Estudando Dev. Java EE | Algoritmos | Matemática | Inglês | Engenharia | </li>
   </ul>
 </details>
 
@@ -37,8 +37,8 @@
 <div align="center">
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Mesquita-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dev-java/)
-  [![Gmail Badge](https://img.shields.io/badge/-carlosmesquita156@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:kivim2018@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Kevin Silva-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dev-java/)
+  [![Gmail Badge](https://img.shields.io/badge/-kivim2018@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:kivim2018@gmail.com)
   
 </div>
 
