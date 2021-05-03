@@ -23,8 +23,8 @@
 <details>
   <summary>Minhas Estátisticas no Github</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=Kevin-dev-java&theme=radical" alt="Techs utilizadas nos projetos" />
-    <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=Kevin-dev-java&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&username=Kevin-Silva-Dev&theme=radical" alt="Techs utilizadas nos projetos" />
+    <img src="https://github-readme-stats.vercel.app/api?locale=pt-br&username=Kevin-Silva-Dev&theme=radical&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
   </p>
 </details>
 
