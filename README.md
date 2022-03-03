@@ -36,7 +36,7 @@
 
 <div align="center">
 
- [![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Silva-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dev-java/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Kevin%20Silva-4000FF?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-silva-back-end/)
   [![Gmail Badge](https://img.shields.io/badge/-kivim2018@gmail.com-4000FF?logo=Gmail&logoColor=white)](mailto:kivim2018@gmail.com)
   
 </div>
