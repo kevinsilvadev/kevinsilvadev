@@ -1,6 +1,6 @@
 ###  Hello, my name is Kevin Silva! <img align="right" alt="Kevin" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
 - :telescope: I am currently studying at PUC-Campinas, studying the 2nd year of software engineering.
-- :seedling: Learning C++, Java, C#, Python, Typescrip, Node and Spring.
+- :seedling: Learning C++, Java, C#, Python, Typescript, Node and Spring.
 - :computer: Looking for internships.
   ##
 <div align="center">
