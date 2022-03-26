@@ -3,6 +3,24 @@
 - :seedling: I have knowledge in the language C++, Java, C#, Python, Typescript, Node and Spring.
 - :computer: Job search in the field of software development.
   ##
+  
+  ```javascript
+const emilio = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, C++, Python, Kotlin],
+  tools: [Node, Docker],
+  archtecture: [...],
+  misc: [Firebase],
+  languageSpoken: [pt_BR, en_US],
+  databases: [Oracle, MySql],
+  universityProjects: {
+                        WEB: "SistemaDeEstacionamento",
+                        Android: "BlueZone",
+                      },
+ challenge: "Switch is the goal | polyglot"
+}
+```
+
 <div align="center">
   <a href="https://github.com/Kevin-Silva-Dev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinsilvadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
