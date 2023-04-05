@@ -1,7 +1,7 @@
 ###  Hello, my name is Kevin Silva! 🖖 <img align="right" alt="Kevin" height="150" width="250" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
 - :telescope: I am currently studying at PUC-Campinas, studying the 3nd year of Software Engineering.
 - :seedling: I have knowledge in the language C++, Java, C#, Python, Typescript and Node.
-- :computer: Job search in the field of software development.
+- :computer: Backend-end Developer at Ericsson.
   ##
   
 <div align="center">
