@@ -1,6 +1,7 @@
+
 # Hello, I'm Kevin Silva! 👋
 
-\<img align="right" alt="Coding" width="280" src="[https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif](https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif)" />
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" />
 
 ### 👨‍💻 About Me
 
@@ -31,21 +32,40 @@
 
 ### 📊 GitHub Statistics
 
-\<div align="center">
-&#x20; \<img height="165em" src="[https://github-readme-stats.vercel.app/api?username=kevinsilvadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=kevinsilvadev\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)"/>
-&#x20; \<img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilvadev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilvadev\&layout=compact\&langs_count=8\&theme=tokyonight)"/>
-\</div>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kevinsilvadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsilvadev&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 ### 🛠️ Technologies & Tools
 
-\<div align="center">   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" alt="Java"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)" alt="Spring"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" alt="JavaScript"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" alt="TypeScript"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" alt="Node.js"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" alt="PostgreSQL"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg)" alt="Oracle"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" alt="Linux"/>   \<img height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" alt="Git"/> \</div>
+<div align="center">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+</div>
 
 ### 🔗 Connect with Me
 
-\<div align="center">   \<a href="[https://www.linkedin.com/in/kevin-silva-21019b3aa/](https://www.linkedin.com/in/kevin-silva-21019b3aa/)" target="\_blank">     \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="[https://github.com/Kevin-Silva-Dev](https://github.com/Kevin-Silva-Dev)" target="\_blank">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a> \</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kevin-silva-21019b3aa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Kevin-Silva-Dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-\<div align="center">
+<br />
 
-
-
-\</div>
+<div align="center">
+  <img src="https://github.com/kevinsilvadev/kevinsilvadev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
